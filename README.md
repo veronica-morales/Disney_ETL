@@ -1,5 +1,5 @@
 # Disney Datasets
-These datasets provide information from rides from specific Disney theme parks. In each csv file, the data provided has the date, time, posted wait time, and the actual wait time. I will just be using csv files from rides corresponding to two theme parks: magic kingdom and hollywood studios. The goal is to clean the data once it has been imported, using Python and Pandas. Once the data cleaning has been done, I will import the dataframes to Postgres SQL. The final outlook should be one database in SQL containing two seperate tables.
+These datasets provide information from rides from specific Disney theme parks. In each csv file, the data provided has the date, time, posted wait time, and the actual wait time. I will just be using csv files from rides corresponding to two theme parks: magic kingdom and hollywood studios. The goal is to clean the data once it has been imported, using Python and Pandas. Once the data cleaning has been done, I will import the dataframes to Postgres SQL. The final outlook should be one database in SQL containing two separate tables.
 
 
 ## Extract
