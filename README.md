@@ -12,7 +12,7 @@ Import pandas to create dataframes and start data cleaning process. For the data
 Load dataframes to Postgres SQL. Ensure psycopg2-binary is installed, if not, pip install. Create two separate databases in SQL: "magic_kingdom" which will include two tables, and "hollywood_studios" which will include three tables. Copy and save schemas in jupyter notebook.
 
 
-# Sources
+### Sources
 "7_dwarfs_train.csv", Disney World Ride Wait Time Datasets, TouringPlans.com, June 2018, https://www.touringplans.com/walt-disney-world/crowd-calendar/#DataSets, Accessed February 2020.
 
 "pirates_of_caribbean.csv", Disney World Ride Wait Time Datasets, TouringPlans.com, June 2018, https://www.touringplans.com/walt-disney-world/crowd-calendar/#DataSets, Accessed February 2020.
